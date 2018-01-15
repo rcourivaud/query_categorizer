@@ -16,8 +16,8 @@ Python project used to categorize short queries
 Features
 --------
 
-* \[x] Implement word vectors trained with fasttext on categories
-* \[x] Implement multi layer perceptron
-* \[x] Deploy API
-* \[] Add feature to learn model
-* \[] Deploy pretrained models
+- \[x] Implement word vectors trained with fasttext on categories
+- \[x] Implement multi layer perceptron
+- \[x] Deploy API
+- \[] Add feature to learn model
+- \[] Deploy pretrained models
