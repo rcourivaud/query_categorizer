@@ -1,0 +1,2 @@
+class NotAllResultsException(Exception):
+    pass
